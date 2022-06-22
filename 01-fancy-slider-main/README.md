@@ -1,0 +1,1 @@
+This is a image sliding site. Here User can search for image and then they can select image for sliding and they can also set the sliding duration. Here is the live site link - https://tusher-ajoy.github.io/fancy-slider/
